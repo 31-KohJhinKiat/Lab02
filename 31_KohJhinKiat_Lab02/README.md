@@ -2,3 +2,5 @@
 This lab 2 file contains the tic tac toe game.
 
 There is not much in it.
+
+Additional changes has been made.
